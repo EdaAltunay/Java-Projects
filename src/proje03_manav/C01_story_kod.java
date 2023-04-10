@@ -1,4 +1,4 @@
-package Proje03_manav;
+package proje03_manav;
 
 import java.util.ArrayList;
 import java.util.List;

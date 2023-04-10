@@ -1,4 +1,4 @@
-package Proje04_tasMakasKagıt;
+package proje04_tasMakasKagıt;
 
 public class Story {
     /*
